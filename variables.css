@@ -1,0 +1,46 @@
+:root {
+  /** colors */
+  --color-name: custom;
+  --color-bg-shade: #282A30;
+  --color-bg-base: #32343C;
+  --color-bg-surface: #3C3E48;
+  --color-bg-highlight: #464954;
+  --color-fg-shade: #A88F5F;
+  --color-fg-base: #BFAD8A;
+  --color-fg-surface: #D6CBB5;
+  --color-fg-highlight: #EEE9DF;
+  --color-primary-bg: #653426;
+  --color-primary-base: #BF6E57;
+  --color-primary-fg: #E5C5BC;
+  --color-secondary-bg: #2E241D;
+  --color-secondary-base: #5C473A;
+  --color-secondary-fg: #8A6B57;
+  --color-palette-red: #E06C75;
+  --color-palette-green: #98C379;
+  --color-palette-yellow: #E5C07B;
+  --color-palette-blue: #61AFEF;
+  --color-palette-purple: #C678DD;
+  --color-palette-cyan: #56B6C2;
+  --color-palette-orange: #FFBB7C;
+  
+  /** general */
+  --font-family: Quicksand;
+  --font-size: 1;
+  --display-image: block;
+
+  /** surface */
+  --surface-maxWidth: 1100px;
+  --surface-shadow: 6px 6px 16px rgb(101, 52, 38), 12px 12px 16px rgb(90, 48.8, 36.2), 18px 18px 16px rgb(79, 45.6, 34.4), 24px 24px 16px rgb(68, 42.4, 32.6), 30px 30px 16px rgb(57, 39.2, 30.8), 36px 36px 16px rgb(46, 36, 29);
+  --surface-borderRadius: 20px;
+
+  /** spacing */
+  --space-smallest: 0.125rem;
+  --space-small: 0.5rem;
+  --space-medium: 1rem;
+  --space-large: 1.5rem;
+  --space-largest: 3rem;
+
+  /** others */
+  --picture-size: 300px;
+  --group-count: 3;
+}
